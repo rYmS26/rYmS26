@@ -10,7 +10,7 @@ I'm a passionate **programmer** and **tech enthusiast** who loves building aweso
 - 🤔 **I’m looking for help with:** Scaling microservices and optimizing cloud infrastructure
 - 💬 **Ask me about:** Anything tech-related! Programming in Kotlin, Laravel, web development, or product design
 - 📫 **How to reach me:** royhanms12@gmail.com | https://www.linkedin.com/in/royhan-ms26 |
-- 😄 **Pronouns:** He/Him or They/Them
+- 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I can write code in 3 different programming languages and still make time for gaming
 ---
 
