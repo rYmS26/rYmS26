@@ -42,7 +42,7 @@ Here are some projects I’ve been working on:
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rYmS26&show_icons=true&theme=tokyonight)
 
 ---
 
