@@ -27,15 +27,6 @@ I'm a passionate **programmer** and **tech enthusiast** who loves building aweso
 
 ---
 
-### 🚀 My Projects
-Here are some projects I’ve been working on:
-
-- **[Project 1 Name](#)**: Description of project 1
-- **[Project 2 Name](#)**: Description of project 2
-- **[Project 3 Name](#)**: Description of project 3
-
----
-
 ### 🔗 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royhan-ms26/)
